@@ -58,8 +58,15 @@ GROQ_API_KEY=your_groq_api_key_here
  
 ## 📦 Dependencies
 All core packages used:
--langgraph
--langchain
--langchain-groq
--grandalf
--python-dotenv
+```bash
+1.langgraph
+2.langchain
+3.langchain-groq
+4.grandalf
+5.python-dotenv
+```
+
+---
+
+## 📜 License
+MIT License. See LICENSE file for details
